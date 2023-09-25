@@ -6,9 +6,12 @@
 # Matrix build to check compatibility on different python versions and also different operating systems
 
 
+<img width="341" alt="Screenshot 2023-09-24 at 11 40 47 PM" src="https://github.com/farazjawedd/fj49_week4_matrix/assets/101464414/a27c6097-9e7b-4cc0-9aa0-59d9b43f66b3">
 
 
+This ensures that our software is compatible everywhere, and to arise any critical issues and address them beforehand.
 
+# About the project:
 
 # Spotify Data Analysis
 
