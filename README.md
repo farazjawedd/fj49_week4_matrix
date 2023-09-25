@@ -1,7 +1,14 @@
 # Python - Basic descriptive statistics using pandas library
 
-
 [![CiCd](https://github.com/nogibjj/fj49_week2_ds/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/fj49_week2_ds/actions/workflows/cicd.yml)
+
+
+# Matrix build to check compatibility on different python versions and also different operating systems
+
+
+
+
+
 
 # Spotify Data Analysis
 
